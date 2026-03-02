@@ -6,6 +6,7 @@ This repository contains 3 basic C language mini projects using loops and number
 
 
 📌 Project 1: Alphabet Skipping Program
+
 🔹 Description
 
 Print alphabets starting from 'a' and increment each character by 4 using do-while loop.
@@ -18,6 +19,7 @@ https://onlinegdb.com/RLmCrktQd
 a e i m q u y
 
 📌 Project 2: Digit Counter
+
 🔹 Description
 
 Counts total digits in a number entered by the user using while loop.
@@ -31,6 +33,7 @@ Enter your number: 752
 Total Number of Digit:3
 
 📌 Project 3: Sum of First and Last Digit
+
 🔹 Description
 
 Finds the sum of the first and last digit of a number.
